@@ -85,7 +85,7 @@ Another point I would like to improve is to create cleaner code and have less co
 ## Author
 Created by Joshua.
 - Git - [Joshua W.](https://github.com/J-Wil21)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/J-Wil21)
+- Frontend Mentor - [@J-Wil21](https://www.frontendmentor.io/profile/J-Wil21)
 
 
 
